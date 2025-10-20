@@ -34,11 +34,13 @@
 ---
 
 ## 🛠️ Tech Stack
-💻 Languages: Python | SQL | DAX
-🧰 Tools & Platforms: Power BI | Power Automate | Power Apps | Excel | AWS | Apache Kafka | GitHub | Microsoft Fabric | VS Code
-🛠️ Data Processing: PySpark | Pandas | NumPy | ETL | AWS Glue | Jupyter Notebooks
-📂 Databases: MySQL | PostgreSQL | SQL Server | SQLite
-📦 Other Skills: Data Modeling | Data Cleaning | Data Transformation | Workflow Automation | Data Visualization | Real-Time Streaming
+- 💻 Languages: Python | SQL | DAX
+
+- 🧰 Tools & Platforms: Power BI | Power Automate | Power Apps | Excel | AWS | Apache Kafka | GitHub | Microsoft Fabric | VS Code
+
+- 🛠️ Data Processing: PySpark | Pandas | NumPy | ETL | AWS Glue | Jupyter Notebooks
+- 📂 Databases: MySQL | PostgreSQL | SQL Server | SQLite
+- 📦 Other Skills: Data Modeling | Data Cleaning | Data Transformation | Workflow Automation | Data Visualization | Real-Time Streaming
 ---
 
 
