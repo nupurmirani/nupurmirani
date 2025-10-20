@@ -34,51 +34,13 @@
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,aws,mysql,postgresql,sqlite,kafka,git,github,tableau,excel,vscode,jupyter" />
-</p>
-
+💻 Languages: Python | SQL | DAX
+🧰 Tools & Platforms: Power BI | Power Automate | Power Apps | Excel | AWS | Apache Kafka | GitHub | Microsoft Fabric | VS Code
+🛠️ Data Processing: PySpark | Pandas | NumPy | ETL | AWS Glue | Jupyter Notebooks
+📂 Databases: MySQL | PostgreSQL | SQL Server | SQLite
+📦 Other Skills: Data Modeling | Data Cleaning | Data Transformation | Workflow Automation | Data Visualization | Real-Time Streaming
 ---
 
-## 🧩 Featured Projects
-### 🎬 [Netflix Data Analysis](https://github.com/nupurmirani/netflix-data-analysis)
-> Cleaned, transformed, and analyzed the Netflix dataset using **Pandas** and **SQL** to find global content trends.
-
-### ☁️ [AWS ETL Pipeline with Glue + S3](https://github.com/nupurmirani/aws-etl-pipeline)
-> Designed a scalable ETL workflow using AWS Glue, S3, and Python for automated data ingestion and transformation.
-
-### 📊 [Power BI Sales Dashboard](https://github.com/nupurmirani/powerbi-sales-dashboard)
-> Built KPI dashboards for sales insights using DAX and visual storytelling in Power BI.
-
-*(You can pin these projects on your GitHub profile to make them appear on top!)*
-
----
-
-## 🗓️ Recent GitHub Activity
-<!--START_SECTION:activity-->
-1. 🗂️ Created and cleaned Netflix dataset for analysis  
-2. 💡 Published first SQL queries notebook  
-3. 🔧 Updated README for AWS ETL project  
-4. 🧠 Started new learning log for Power BI dashboards  
-5. ⭐ Starred amazing open-source data projects  
-<!--END_SECTION:activity-->
-
-🕒 *(This section updates automatically every few days via GitHub Actions — you can set it up using [GitHub Activity Readme](https://github.com/marketplace/actions/github-activity-readme))*  
-
----
-
-## 🧠 2025 Learning Journey & Goals
-🎯 **Short-Term (Next 3 Months)**  
-- Master **Advanced SQL** (window functions, CTEs, optimization)  
-- Deploy my first **AWS Data Pipeline** with real-time ingestion  
-- Build a **Python + Power BI dashboard project**
-
-🚀 **Long-Term (2025 Goals)**  
-- Contribute to open-source data projects  
-- Earn an **AWS Certified Data Engineer** certification  
-- Land a **Data Engineering Internship / Role**
-
----
 
 ## 🔥 GitHub Streak
 <p align="center">
@@ -104,6 +66,13 @@
 ## 💬 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupurmirani&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nupurmirani&bg_color=1a1b27&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
