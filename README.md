@@ -1,8 +1,6 @@
 <!-- 🎬 Animated Intro Section -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Nupur+Mirani+👋;Data+Engineer+%7C+Python+%26+SQL+Developer;Building+Data+Pipelines+%26+Streaming+Solutions;Lifelong+Learner+%7C+Tech+Explorer+🚀" alt="Typing SVG" />
-  </a>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Nupur+Mirani+👋;From+Student+to+Engineer+to+Innovator+🚀;A+Curious+Mind+Exploring+Data+%26+Technology+💡;Data+Engineer+%7C+Problem+Solver+%7C+Lifelong+Learner+🌍" alt="Typing SVG" />
 </h1>
 
 <p align="center">
