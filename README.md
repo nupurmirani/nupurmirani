@@ -44,8 +44,9 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-![GitHub Streak](https://streak-stats-nupurmirani.vercel.app?user=nupurmirani&theme=tokyonight)
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=nupurmirani" alt="GitHub Streak" />
+  </a>
 </p>
 
 
