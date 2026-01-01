@@ -1,3 +1,5 @@
+can you tell me the error here 
+stats languages trophies streak not showing 
 <!-- 🎬 Animated Intro Section -->
 <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Nupur+Mirani+👋;From+Student+to+Engineer+to+Innovator+🚀;Turning+Curiosity+into+Creation+✨;Data+Engineer+%7C+Problem+Solver+%7C+Lifelong+Learner+🌍" alt="Typing SVG" />
@@ -43,29 +45,29 @@
 
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=nupurmirani)](https://git.io/streak-stats)
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nupurmirani&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nupurmirani" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nupurmirani&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nupurmirani" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nupurmirani&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ## 💬 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupurmirani" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nupurmirani&layout=compact&theme=tokyonight" />
 </p>
 
 ---
