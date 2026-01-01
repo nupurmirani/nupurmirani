@@ -43,11 +43,8 @@
 
 
 ## 🔥 GitHub Streak
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=nupurmirani" alt="GitHub Streak" />
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=nupurmirani)](https://git.io/streak-stats)
+
 
 
 ---
