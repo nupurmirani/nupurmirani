@@ -44,7 +44,8 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nupurmirani)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats-yourname.vercel.app?user=nupurmirani&theme=tokyonight)
+
 </p>
 
 
